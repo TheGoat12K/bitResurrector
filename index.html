@@ -320,7 +320,7 @@
 
         .main-title {
             font-family: var(--font-heading);
-            font-size: clamp(2.5rem, 6vw, 5rem);
+            font-size: clamp(1.4rem, 6.8vw, 5rem);
             color: #fff;
             font-weight: 900;
             line-height: 1.1;
@@ -334,6 +334,7 @@
             display: block;
             text-align: center;
             width: 100%;
+            white-space: nowrap;
         }
 
         .scramble-span {
@@ -458,6 +459,11 @@
         }
 
         @media (max-width: 600px) {
+            .hero {
+                padding-left: 20px;
+                padding-right: 20px;
+            }
+
             .download-pod {
                 flex-direction: column;
                 text-align: center;
@@ -471,7 +477,8 @@
             }
 
             .main-title {
-                font-size: clamp(2rem, 10vw, 3.5rem);
+                font-size: clamp(1.1rem, 6.6vw, 3.5rem);
+                letter-spacing: -0.5px;
             }
 
             .hero-desc {
